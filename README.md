@@ -4,11 +4,6 @@
 
 ---
 
-### 🌐 Live Links
-
-- 🧳 **User App**: [https://stayfinder.onrender.com](https://stayfinder.onrender.com)  
-- 🛠️ **Host Dashboard**: [https://stayfinder-host.onrender.com](https://stayfinder-host.onrender.com)
-
 ---
 
 ## ✨ Features
